@@ -12,6 +12,7 @@
             <th>Nama</th>
             <th>Alamat</th>
             <th>Pekerjaan</th>
+            <th><foto></th>
             <th>Action</th>
         </tr>
 
